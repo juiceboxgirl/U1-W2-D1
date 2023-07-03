@@ -13,7 +13,7 @@ REGOLE
 
 // I principali datatype in JS sono cinque:
 // 1. String: identifica una riga di testo, che può contenere caratteri alfanumerici e simboli, ma verrà sempre interpretata come testo dal sistema;
-// 2. Number: serve ad identificare valori numerici di qualsiasi tipo;
+// 2. Number: serve ad identificare valori numerici interi, positivi, negativi o fluttuanti;
 // 3. Boolean: rappresenta i valori "Vero e "Falso";
 // 4. Undefined: ci informa dell'assenza di un valore distintivo per quel dato;
 // 5. Null: ci informa che quel dato non ha alcun valore (come se fosse uno 0);
