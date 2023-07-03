@@ -68,4 +68,4 @@ const name2 = "John";
 
 console.log(name1 != name2); // => true
 
-name2.toLowerCase(); // => true
+console.log(name1 === name2.toLowerCase()); // => true
