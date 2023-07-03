@@ -69,3 +69,16 @@ const name2 = "John";
 console.log(name1 != name2); // => true
 
 console.log(name1 === name2.toLowerCase()); // => true
+
+//
+
+console.log(
+  "primo nome: " + name1 + ", ",
+  "secondo nome:" + name2 + ". ",
+  name1 !== name2 ? "Il primo nome è diverso dal secondo nome" : "I due nomi sono uguali"
+);
+
+console.log(
+  "Verifica dell'uguaglianza dei due nomi in lowercase: ",
+  name1.toLowerCase() === name2.toLowerCase() ? true : false
+);
